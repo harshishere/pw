@@ -70,7 +70,7 @@ float: left;
 .swimming{
   border-radius: 100%;
 width:25%;
-margin-left: : 30px;
+margin-left: 30px;
 float: right;
 }
 .hr22{
@@ -82,7 +82,7 @@ float: right;
   margin: 80px auto 80px auto;
 }
 .intro{
-  width: 30%;
+/*   width: 30%; */
   margin: auto;
   line-height:2;
 }
