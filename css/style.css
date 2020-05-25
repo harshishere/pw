@@ -112,4 +112,14 @@ float: right;
   background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2BC4AD));
   background: -moz-linear-gradient(top,  #30E3CB,  #2BC4AD);
 }
-
+ @media (max-width: 500px) {
+  .intro {
+    font-size: 1.5rem;
+    margin: 0rem 3rem;
+  }
+  .skills p {
+    font-size: 1.5rem;
+    /* margin: 0rem 3rem; */
+    text-align: center;
+  }
+}
